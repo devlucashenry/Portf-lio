@@ -26,11 +26,15 @@ Sou estudante de Engenharia da Computação com experiência prática em suporte
 
 ## 📚 Projetos
 
-### 🔹 Estudo e automação de resfriamento de criostato
-- **Tipo**: Iniciação Científica (PIBIC/UFAM)  
-- **Resumo**: Implementação de automação em sistemas térmicos utilizando microcontroladores e sensores.  
-- **Tecnologias**: Arduino/ESP32, relé, sensores de temperatura, Blynk, C/C++, Python  
-- **Período**: Ago 2024 – Jun 2025  
+### Estudo e automação de resfriamento de criostato
+- **Período:** Agosto 2024 – Junho 2025  
+- **Descrição:** Projeto focado na implementação de automação em sistemas térmicos utilizando microcontroladores e sensores para controlar o resfriamento de criostatos.  
+- **Tecnologias:** Arduino/ESP32, relé, sensores de temperatura, Blynk, C/C++, Python  
+
+### Estudo do Lançamento de Projéteis através do uso de TICs e experimentação
+- **Período:** Agosto 2022 – 2023  
+- **Descrição:** Estudo do lançamento de projéteis por meio do uso de Tecnologias da Informação e Comunicação (TICs) e experimentação. 
+- **Tecnologias:** Software de simulação, coleta e análise de dados, TICs educacionais  
 
 ### 🔹 Script de backup automático em Linux
 - Shell script para backup incremental com logs.
