@@ -8,8 +8,9 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Engenharia da Computação com experiência prática em suporte técnico e análise de sistemas ERP. Tenho interesse em automação, desenvolvimento de sistemas e infraestrutura de TI. Participei de um projeto de iniciação científica (PIBIC) com foco em automação de sistemas de resfriamento de criostato de ciclo fechado.
-
+Sou estudante de Engenharia da Computação com experiência prática em suporte técnico e análise de sistemas ERP. Tenho interesse em automação, desenvolvimento de sistemas e infraestrutura de TI.  
+Sou atleta de judô há 15 anos.  
+Nas horas vagas, gosto de fazer musculação, tocar violão e jogar videogame.
 ---
 
 ## 🛠️ Habilidades
