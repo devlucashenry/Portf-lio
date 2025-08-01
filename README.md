@@ -46,6 +46,7 @@ Nas horas vagas, gosto de fazer musculação, tocar violão e jogar videogame.
 
 **Analista de Suporte de Sistemas** – ARCA SISTEMA (2025 – atual)  
 **Iniciação Científica (PIBIC)** – UFAM (2024 – 2025)  
+**Iniciação Científica (PIBIC)** – UFAM (2022 – 2023) 
 **Estagiário de TI** – MAGSCAN (2021 – 2022)
 
 ---
